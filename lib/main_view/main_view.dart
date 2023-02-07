@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:genshin_abyss_drafter/main_view/pages/main_view_dashboard/main_view_dashboard.dart';
+import 'package:genshin_abyss_drafter/main_view/pages/main_view_dashboard/pages/set_draft_rules_page/set_draft_rules_files/set_draft_rules_var.dart';
 import '../widgets/side_bar/side_bar.dart';
 import 'main_view_files/main_view_var.dart';
 
@@ -14,6 +15,7 @@ class _MainViewState extends State<MainView> {
   double viewIndex = MainViewVar().getViewIndex1();
 
   updateView() {
+
     setState(() {
       viewIndex = MainViewVar().getViewIndex1();
     });

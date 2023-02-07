@@ -12,7 +12,7 @@ class MainViewVar {
 
   setViewIndex(double viewIndex){
     _viewIndex1 = viewIndex;
-    print("var $_viewIndex1");
+
 
 
   }

@@ -25,7 +25,7 @@ class MainViewOneContainer extends StatelessWidget {
                 width: double.infinity,
                 height: 600,
                 decoration: BoxDecoration(
-                  color: Colors.green,
+
                 ),
                 child: Row(
                   children: [],
