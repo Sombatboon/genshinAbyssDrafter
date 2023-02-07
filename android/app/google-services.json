@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "786871248294",
+    "project_id": "genshin-abyss-drafter",
+    "storage_bucket": "genshin-abyss-drafter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786871248294:android:65977a6432f3c7a97f5b67",
+        "android_client_info": {
+          "package_name": "com.fdthai.genshin_abyss_drafter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "786871248294-02tquotfbudmhfe4b9c51lpnn31q24ac.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEDJHDx2PH1J_6qrAn2DIu0gElewfTkQg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "786871248294-02tquotfbudmhfe4b9c51lpnn31q24ac.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

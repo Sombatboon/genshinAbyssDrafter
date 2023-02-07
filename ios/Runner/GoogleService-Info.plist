@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>786871248294-t3mk9mffjm6manj3jlsf80lblols0vg6.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.786871248294-t3mk9mffjm6manj3jlsf80lblols0vg6</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBuTK2OcyJqkdJ4qvCooyMhPJxK_jeTxbY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>786871248294</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.fdthai.genshinAbyssDrafter</string>
+	<key>PROJECT_ID</key>
+	<string>genshin-abyss-drafter</string>
+	<key>STORAGE_BUCKET</key>
+	<string>genshin-abyss-drafter.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:786871248294:ios:bc9721946e15b8747f5b67</string>
+</dict>
+</plist>
